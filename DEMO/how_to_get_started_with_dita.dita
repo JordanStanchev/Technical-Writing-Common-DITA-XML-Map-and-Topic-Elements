@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_get_started_with_dita">
+    <title>How to Get Started with DITA</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><xref href="http://www.jpdocu.com" format="html" scope="external"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

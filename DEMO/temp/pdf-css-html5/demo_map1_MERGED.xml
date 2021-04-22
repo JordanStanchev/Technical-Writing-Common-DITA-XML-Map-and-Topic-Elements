@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/i024155/Desktop/DEMO/demo_map1.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/i024155/Desktop/DEMO/demo_map1.ditamap">DEMO_MAP1</title>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " xtrc="topicref:1;5:37" xtrf="file:/C:/Users/i024155/Desktop/DEMO/demo_map1.ditamap" href="#unique_1" id="unique_1" type="task" ohref="task_demo.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="task_demo"><resourceid class="- topic/resourceid " oxy-source="topic" appid="task_demo"/><navtitle class="- topic/navtitle ">How to Start the Calculator App</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Start the Calculator App</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find information on how to start the Caclulator app on your mobile         phone.</shortdesc></topicmeta><topicref class="- map/topicref " xtrc="topicref:2;6:39" xtrf="file:/C:/Users/i024155/Desktop/DEMO/demo_map1.ditamap" href="#unique_2" id="unique_2" type="topic" ohref="topic1.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " data-topic-id="topic1"><resourceid class="- topic/resourceid " oxy-source="topic" appid="topic1"/><navtitle class="- topic/navtitle ">TOPIC1</navtitle><?ditaot gentext?><linktext class="- map/linktext ">TOPIC1</linktext></topicmeta></topicref></topicref>
+</opentopic:map><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="task:1;3:22" specializations="@props/deliveryTarget" oid="task_demo" id="unique_1">
+    <title class="- topic/title " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="title:1;4:12">How to Start the Calculator App</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="shortdesc:1;5:16">Here you will find information on how to start the Caclulator app on your mobile
+        phone.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="taskbody:1;7:15">
+        <prereq id="unique_1_Connect_42_prereq_afc_3cd_m4b" class="- topic/section task/prereq " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="prereq:1;8:41">
+            <p class="- topic/p " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="p:1;9:16">To use the calculator app, you need to unlock your phone first.</p>
+        </prereq>
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="context:1;11:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="p:2;12:16">You can use a calculator app on your smartphone. You will find it useful, when you
+                need to quickly calculate some numbers. </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="steps:1;15:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="step:1;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="cmd:1;17:22"> Navigate to the Calculator application icon.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="step:2;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="cmd:2;20:22">Tap the icon. </cmd>
+            </step>
+        </steps>
+        <result id="unique_1_Connect_42_result_hhv_mdd_m4b" class="- topic/section task/result " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="result:1;23:41">
+            <p class="- topic/p " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="p:3;24:16"> The application starts. You are now ready to calculate with it.</p>
+        </result>
+        <example class="- topic/example " xtrf="file:/C:/Users/i024155/Desktop/DEMO/task_demo.dita" xtrc="example:1;26:18">For example, if you have purchased a book for 5$ and you have given 10$, how much
+            change should you expect? Answer is 10-5=5 $ change.</example>
+    </taskbody>
+<topic ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/i024155/Desktop/DEMO/topic1.dita" xtrc="topic:1;3:20" specializations="@props/deliveryTarget" oid="topic1" id="unique_2">
+    <title class="- topic/title " xtrf="file:/C:/Users/i024155/Desktop/DEMO/topic1.dita" xtrc="title:1;4:12">TOPIC1</title>
+    <body class="- topic/body " xtrf="file:/C:/Users/i024155/Desktop/DEMO/topic1.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/i024155/Desktop/DEMO/topic1.dita" xtrc="p:1;6:12"/>
+    </body>
+</topic></task></map>

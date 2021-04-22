@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>DEMO-MAP-1</title>
+    <topicref href="how_to_get_started_with_dita.dita"/>
+</map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="target_topic_that_reuses_the_content">
+    <title>Target Topic That Reuses the Content</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <ul
+            conref="reused_content_definition_topic.dita#reused_content_definition_topic/ul_b5p_svc_z4b"
+            id="ul_ogr_4bx_cpb">
+            <li/>
+        </ul>
+    </conbody>
+</concept>

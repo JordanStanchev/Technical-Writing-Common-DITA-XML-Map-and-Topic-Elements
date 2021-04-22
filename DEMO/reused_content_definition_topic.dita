@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reused_content_definition_topic">
+    <title>Reused Content - Definition Topic</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <ul id="ul_b5p_svc_z4b">
+            <li>Here is list item.</li>
+            <li>Here is a second list item.</li>
+        </ul>
+    </conbody>
+</concept>
